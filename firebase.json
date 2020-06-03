@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "ng-li-club",
+      "public": "dist/ng-li-club",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

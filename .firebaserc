@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-il-club": {
+      "hosting": {
+        "ng-li-club": [
+          "ng-il-club"
+        ]
+      }
+    }
+  }
+}
